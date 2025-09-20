@@ -40,10 +40,24 @@ flowchart TD
 | 3    | Data carving               | Autopsy Data Carving Module | Recovered files              |
 | 4    | Export evidence            | Autopsy Export Option       | File copies for analysis     |
 
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 160611" src="https://github.com/user-attachments/assets/d63ab883-61fd-4e35-bc0e-aaade930d68b" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-20 223036" src="https://github.com/user-attachments/assets/c20de6cd-fe11-4396-a40d-d1029c934dc0" />
+
+
+<img width="1064" height="544" alt="Screenshot 2025-09-20 162819" src="https://github.com/user-attachments/assets/849fe9e8-2fcf-42a0-983f-b443fe3e7be0" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 162530" src="https://github.com/user-attachments/assets/8de124c1-963c-40e8-98ef-325f67f16535" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 162620" src="https://github.com/user-attachments/assets/e3ee6898-6c7d-4350-96ae-412badfd2fd4" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 162736" src="https://github.com/user-attachments/assets/78f2c1ae-32f2-4822-84ec-36d917fa3c8f" />
+
+<img width="1542" height="757" alt="Screenshot 2025-09-20 222555" src="https://github.com/user-attachments/assets/1b60d00d-cb27-4b9b-b413-e898478f1cfc" />
+
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
-
